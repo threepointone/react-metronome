@@ -1,6 +1,6 @@
 {
   "name": "react-metronome",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "tick tock",
   "main": "./lib/index.js",
   "scripts": {
