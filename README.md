@@ -8,7 +8,7 @@ tick-tock as a component :)
 
 current api:
 ```js
-<Metronome period={1000}>{
+<Metronome period={1000} onTick={fn}>{
   value => <div>{`tick: ${value}`}</div>
 }</Metronome>
 ```
